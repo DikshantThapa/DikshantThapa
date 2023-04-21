@@ -80,6 +80,8 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 - 👯 I’m looking to collaborate on **Flutter**
 - 🌱 I’m currently learning **Machine Learning**
 - ⚡ In my free time I solve problems of DSA and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dikshant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-bikram-thapa-77b2aa231/)
+- ⚡ For queries: **dikshantthapa3@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
