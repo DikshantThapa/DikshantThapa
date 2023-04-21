@@ -101,3 +101,9 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantthapa&show_icons=true&locale=en" alt="dikshantthapa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantthapa&" alt="dikshantthapa" /></p>
+
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshantthapa&show_icons=true&locale=en&layout=compact" alt="dikshantthapa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshantthapa&show_icons=true&locale=en" alt="dikshantthapa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantthapa&" alt="dikshanttthapa" /></p>
