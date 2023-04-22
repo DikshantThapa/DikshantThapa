@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://mixpanel.com/wp-content/uploads/2022/01/MXP-Blog-MachineLearningProductAnalysis-1920x1080-copy.png)]
 <h1 align="center">Hi 👋, I'm Dikshant Bikram Thapa</h1>
 <h3 align="center">Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal</h3>
 
