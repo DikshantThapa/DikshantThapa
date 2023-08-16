@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/dikshanthapa11" target="blank"><img src="https://img.shields.io/twitter/follow/dikshanthapa11?logo=twitter&style=for-the-badge" alt="dikshanthapa11" /></a> </p>
 
 ### :woman_technologist: &nbsp;About Me :
-- 🔭 I’m currently working on **Guitar Tuner**
+- 🔭 I’m currently working on **Image Processing Project**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 👯 I’m looking to collaborate on **Flutter**
 - 🌱 I’m currently learning **Machine Learning**
