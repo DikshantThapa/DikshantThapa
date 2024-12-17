@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dikshant Bikram Thapa</h1>
 <h3 align="center">Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantthapa&label=Profile%20views&color=0e75b6&style=flat" alt="dikshantthapa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshantthapa" alt="dikshantthapa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dikshanthapa11" target="blank"><img src="https://img.shields.io/twitter/follow/dikshanthapa11?logo=twitter&style=for-the-badge" alt="dikshanthapa11" /></a> </p>
 
 &nbsp;About Me :
 - 🔭 I’m currently working on **Image Processing Project**
